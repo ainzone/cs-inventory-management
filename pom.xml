@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>de.hspf.inventory.management</groupId>
+    <artifactId>inventory-management</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>18</maven.compiler.source>
+        <maven.compiler.target>18</maven.compiler.target>
+        <exec.mainClass>de.hspf.inventory.management.InventoryManagement</exec.mainClass>
+    </properties>
+    <name>Case Study Inventory Management</name>
+    <description>You have been hired by a small grocery store to develop a program that will help them manage their inventory and calculate the total cost of a customer's purchase. The grocery store sells different types of items, including fruits, vegetables, meat, and canned goods. The store needs a program that will allow them to add and remove items from their inventory, track the number of items sold, and calculate the total cost of a customer's purchase.</description>
+</project>
