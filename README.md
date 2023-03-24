@@ -1,5 +1,5 @@
 # Case Study Inventory Management
-This case study aimes for second semester business informatics studuents at Pforzheim University.
+This case study aimes for second semester business informatics students at Pforzheim University.
 
 ## Background
 John is a college student who is studying computer science. He is currently enrolled in an "Introduction to Programming" course that teaches basic programming concepts using the Java programming language and the NetBeans Integrated Development Environment (IDE).
