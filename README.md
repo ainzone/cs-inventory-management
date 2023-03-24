@@ -13,26 +13,27 @@ Throughout the project, John learns valuable programming skills, such as how to 
 By the end of the project, John has created a simple but effective library management system that he can use to keep track of his book collection. He feels proud of the work he has accomplished and excited to continue learning more advanced programming concepts in his future coursework.
 
 # Tasks
+**Hint:** Class names should be adopted as given. The naming of methods might differ in your solution as the given instruction just tells the function. Hence, the method names in the following are not standardized and non compliant with Java naming conventions.
 ## Creation Tasks
-1. Create a Java class called Item that represents a single item in the inventory. The class should have the following attributes: item name, item code, price, and quantity.
-2. Create a Java class called Inventory that represents the store's inventory. The class should have the following methods: add item, remove item, and display inventory.
-3. Create a Java class called Sales that represents the store's sales. The class should have the following methods: add sale, remove sale, and display sales.
-4. Create a Java class called Purchase that represents a customer's purchase. The class should have the following methods: add item to purchase, remove item from purchase, and display purchase.
-5. Create a Java class called Customer that represents a customer. The class should have the following attributes: customer name, customer ID, and purchase history.
-6. Create a Java class called Store that represents the grocery store. The class should have the following attributes: store name, store address, and store phone number.
-7. Create a Java class called Main that will be used to test the program. The class should have a main method that creates an instance of the Store class and calls the methods in the Inventory, Sales, and Purchase classes to test the program.
+1. Create a Java class called `Item` that represents a single item in the inventory. The class should have the following attributes: `item name`, `item code`, `price`, and `quantity`.
+2. Create a Java class called `Inventory` that represents the store's inventory. The class should have the following methods: `add item`, `remove item`, and `display inventory`.
+3. Create a Java class called `Sales` that represents the store's sales. The class should have the following methods: `add sale`, `remove sale`, and `display sales`.
+4. Create a Java class called `Purchase` that represents a customer's purchase. The class should have the following methods: `add item to purchase`, `remove item from purchase`, and `display purchase`.
+5. Create a Java class called `Customer` that represents a customer. The class should have the following attributes: `customer name`, `customer ID`, and `purchase history`.
+6. Create a Java class called `Store` that represents the grocery store. The class should have the following attributes: `store name`, `store address`, and `store phone number`.
+7. Create a Java class called `Main` that will be used to test the program. The class should have a main method that creates an instance of the Store class and calls the methods in the `Inventory`, `Sales`, and `Purchase` classes to test the program.
 
 ## Modification Tasks
-8. Modify the Item class to include a discount attribute. Add a method to calculate the discounted price.
-9. Modify the Inventory class to include a method to calculate the total value of the inventory.
-10. Modify the Sales class to include a method to calculate the total revenue.
-11. Modify the Purchase class to include a method to calculate the total cost of the purchase.
-12. Modify the Customer class to include a method to display the customer's purchase history.
-13. Modify the Store class to include a method to display the store's information.
+8. Modify the `Item` class to include a discount attribute. Add a method to calculate the discounted price.
+9. Modify the `Inventory` class to include a method to calculate the total value of the inventory.
+10. Modify the `Sales` class to include a method to calculate the total revenue.
+11. Modify the `Purchase` class to include a method to calculate the total cost of the purchase.
+12. Modify the `Customer` class to include a method to display the customer's purchase history.
+13. Modify the `Store` class to include a method to display the store's information.
 
 ## Advanced Tasks
 14. Add error handling to the program to handle invalid input.
-15. Add a graphical user interface to the program using JavaFX.
+15. Add a graphical user interface to the program using `JavaFX` or `Swing GUI`.
 
 # Additional instructions and help for the case study
 - Start by reading through the case study background carefully, making note of the programming tasks that John needs to complete.
